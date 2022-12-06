@@ -1,4 +1,4 @@
-a=1
+a=15
 b='dos'
 c=12.6
 d=True
@@ -20,7 +20,7 @@ def sumaditos(a,b):
     return suma
 
 if sumaditos(12,8)==20:
-    print('Vamos a ganar IPC2')
+    print('Vamos a ganar IPC2 y pasar una navidad feliz ')
 else:  
     print('Vamos a ganar despues IPC2')
 
