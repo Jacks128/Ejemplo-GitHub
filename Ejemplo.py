@@ -68,3 +68,6 @@ for i in palabra:
     if i=='a':
         contador=contador+1
 print('Cantidad de letras a: ',contador)
+
+
+print('vamos a morir todos :,v')
